@@ -1,0 +1,12 @@
+D:\Projetos\EscudoHotSpot\EscudoHotSpot\bin\Debug\EscudoHotSpot.exe.config
+D:\Projetos\EscudoHotSpot\EscudoHotSpot\bin\Debug\EscudoHotSpot.exe
+D:\Projetos\EscudoHotSpot\EscudoHotSpot\bin\Debug\EscudoHotSpot.pdb
+D:\Projetos\EscudoHotSpot\EscudoHotSpot\bin\Debug\MaterialSkin.dll
+D:\Projetos\EscudoHotSpot\EscudoHotSpot\obj\Debug\EscudoHotSpot.csprojAssemblyReference.cache
+D:\Projetos\EscudoHotSpot\EscudoHotSpot\obj\Debug\EscudoHotSpot.Form1.resources
+D:\Projetos\EscudoHotSpot\EscudoHotSpot\obj\Debug\EscudoHotSpot.Properties.Resources.resources
+D:\Projetos\EscudoHotSpot\EscudoHotSpot\obj\Debug\EscudoHotSpot.csproj.GenerateResource.cache
+D:\Projetos\EscudoHotSpot\EscudoHotSpot\obj\Debug\EscudoHotSpot.csproj.CoreCompileInputs.cache
+D:\Projetos\EscudoHotSpot\EscudoHotSpot\obj\Debug\EscudoHotSpot.csproj.CopyComplete
+D:\Projetos\EscudoHotSpot\EscudoHotSpot\obj\Debug\EscudoHotSpot.exe
+D:\Projetos\EscudoHotSpot\EscudoHotSpot\obj\Debug\EscudoHotSpot.pdb
